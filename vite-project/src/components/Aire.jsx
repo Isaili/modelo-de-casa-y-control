@@ -13,8 +13,7 @@ const Aire = () => {
 
 
   const buttonStyles = {
-    marginTop: '-45px',
-    marginLeft: '50%',
+    position: 'absolute',
     width: '50px',
     height: '50px',
     backgroundImage: `url(${isOriginalImage ? originalImageUrl : alternateImageUrl})`,
@@ -25,6 +24,8 @@ const Aire = () => {
     cursor: 'pointer',
     outline: 'none',
     transition: 'transform 0.2s',
+    top:'85px',
+    left:'66%',
   };
 
  
