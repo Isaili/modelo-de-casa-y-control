@@ -9,9 +9,9 @@ const DivCuarto = () => {
     border: '2px solid black',
     marginLeft: '45.2%', 
     backgroundImage: 'url("https://thumbs.dreamstime.com/b/ni%C3%B1os-habitaci%C3%B3n-gr%C3%A1fico-color-blanco-negro-de-la-pantalla-interior-ilustraci%C3%B3n-vector-sala-dibujo-231810118.jpg")',
-    backgroundSize: 'cover', // Ajustar la imagen para cubrir todo el div
-    backgroundRepeat: 'no-repeat', // Evitar que la imagen se repita
-    backgroundPosition: 'center', // Centrar la imagen dentro del div
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat', 
+    backgroundPosition: 'center', 
   };
 
   return (

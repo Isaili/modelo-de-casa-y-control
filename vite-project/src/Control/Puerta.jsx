@@ -5,7 +5,7 @@ const Puerta = () => {
 
   const toggleDoor = () => {
     setIsOpen(!isOpen);
-    // Aquí puedes agregar más lógica según sea necesario para abrir/cerrar la puerta
+    
   };
 
   const styles = {

@@ -13,6 +13,8 @@ const DivPorton = () => {
     alignItems: 'center',
   };
 
+  
+
   const estiloBoton = {
     width: '200px',
     height: '50px',
@@ -29,7 +31,7 @@ const DivPorton = () => {
 
   const handleClick = () => {
     console.log('Botón clickeado');
-    // Aquí puedes agregar lógica adicional para cambiar la imagen o realizar otras acciones
+  
   };
 
   return (

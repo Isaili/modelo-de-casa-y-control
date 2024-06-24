@@ -11,8 +11,8 @@ const Puerta = ({ width = '200px', height = '250px', onClick
     width: '200px',
     height: '250px',
     backgroundImage: 'url(https://th.bing.com/th/id/OIP.ryZIWmT_DI8h5ZZHMkzq4gHaJn?rs=1&pid=ImgDetMain)',
-    backgroundSize: 'contain', // Ajusta la imagen para que se adapte sin distorsionarse
-    border: '0px solid black', // Borde negro de 2 píxeles
+    backgroundSize: 'contain', 
+    border: '0px solid black', 
     cursor: 'pointer',
     display: 'flex',
     alignItems: 'center',

@@ -5,7 +5,7 @@ import Porton from './Porton';
 import Puerta from './Puerta';
 
 const Control = () => {
-  // Estilo CSS para el contenedor div
+  
   const containerStyle = {
     border: '0px solid black',
     padding: '10px',

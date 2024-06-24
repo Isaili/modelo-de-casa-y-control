@@ -5,7 +5,7 @@ const Porton = () => {
 
   const handleClick = () => {
     setIsOpen(!isOpen);
-    // Aquí puedes agregar más lógica según sea necesario para abrir/cerrar el portón
+   
   };
 
   const styles = {

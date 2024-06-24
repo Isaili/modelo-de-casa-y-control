@@ -5,7 +5,7 @@ const Foco = () => {
 
   const handleClick = () => {
     setIsOn(!isOn);
-    // Aquí puedes realizar más acciones según el estado del foco
+    
   };
 
   const styles = {

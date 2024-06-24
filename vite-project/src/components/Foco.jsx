@@ -18,7 +18,7 @@ const Foco = () => {
     border: '2px solid #000',
     outline: 'none',
     cursor: 'pointer',
-    backgroundColor: isOn ? '#fff176' : '#fff', // Cambia el color según el estado
+    backgroundColor: isOn ? '#fff176' : '#fff', 
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'flex-end',
