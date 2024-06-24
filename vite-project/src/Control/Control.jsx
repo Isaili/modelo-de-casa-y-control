@@ -7,12 +7,12 @@ import Puerta from './Puerta';
 const Control = () => {
   
   const containerStyle = {
-    border: '0px solid black',
+    border: '2px solid red',
     padding: '10px',
     width: '250px',  // Ancho de 50px
     height: '55px',
     marginLeft: '20.2%', 
-    marginTop: '-49.5%', // Alto de 60px
+    marginTop: '-48.5%', // Alto de 60px
   };
 
   return (

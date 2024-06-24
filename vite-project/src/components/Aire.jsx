@@ -5,7 +5,7 @@ const Aire = () => {
 
 
   const originalImageUrl = 'https://png.pngtree.com/element_our/20190531/ourlarge/pngtree-white-air-conditioner-image_1297084.jpg';
-  const alternateImageUrl = 'https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-green-air-conditioning-image_1456122.jpg';
+  const alternateImageUrl = 'https://bpic.588ku.com/element_origin_min_pic/23/04/24/e373b60cd4e8ca2e7cb0ef8580ca1b87.jpg';
 
   const toggleImage = () => {
     setIsOriginalImage(!isOriginalImage);
